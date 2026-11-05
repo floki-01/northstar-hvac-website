@@ -18,7 +18,7 @@ A responsive HVAC contractor website demonstration built as a polished front-end
 
 ## Walkthrough
 
-[Watch the website walkthrough](presentation/screenshots/presentation/VID_20261105_154858_399.mp4)
+[Watch the website walkthrough](presentation/screenshots/presentation/northstar-walkthrough.mp4)
 
 ## Project overview
 
